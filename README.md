@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @poddarshrseth
-- 👀 I’m interested in mainly full stack web dev and app dev
-- 🌱 I’m currently learning html css js 
-- 💞️ I’m looking to collaborate on github reddit 
-- 📫 How to reach me insta:_shresth_poddar_,fb: shresth poddar,twitter:shresth poddar
+- 👋 Hi, I’m shresth poddar
+- I am a student of 2nd year student from chaibasa engineering college 
+- this is a blog page for wishing everyone happy new year
+- languages used to create this web blog page
+  1.html
+  2.css
+- 📫 How to reach me 
+1.insta:https://www.instagram.com/_shresth_poddar_/
+2.fb: https://www.facebook.com/shresth.poddar.92/
+3.twitter:https://twitter.com/shresthpoddar7
+linkedin:https://www.linkedin.com/in/shresth-poddar-2328b6204/
 
 <!---
 poddarshrseth/poddarshrseth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

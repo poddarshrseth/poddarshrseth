@@ -5,10 +5,10 @@
   1.html
   2.css
 - 📫 How to reach me 
-1.insta:https://www.instagram.com/_shresth_poddar_/
-2.fb: https://www.facebook.com/shresth.poddar.92/
-3.twitter:https://twitter.com/shresthpoddar7
-linkedin:https://www.linkedin.com/in/shresth-poddar-2328b6204/
+-.insta:https://www.instagram.com/_shresth_poddar_/
+-.fb: https://www.facebook.com/shresth.poddar.92/
+-.twitter:https://twitter.com/shresthpoddar7
+-linkedin:https://www.linkedin.com/in/shresth-poddar-2328b6204/
 
 <!---
 poddarshrseth/poddarshrseth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
